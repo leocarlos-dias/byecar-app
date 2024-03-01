@@ -258,10 +258,6 @@ class AppManager(tk.Tk):
             )
             text.insert("end", "Registro gravado com sucesso\n.")
             text.insert("end", "================================\n")
-            text.insert(
-                "end",
-                "Observação: A consulta foi realizada selecionando os primeiros resultados das buscas dos campos de seleção. Caso deseje, no código, altere a variável 'False' para 'True' para realizar a busca digitando o valor desejado.\n",
-            )
         except Exception as e:
             text.insert("end", f"Erro ao consultar: {e}")
         finally:
