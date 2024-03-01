@@ -28,7 +28,12 @@ O Consulta de Carros e Utilitários - Byecar | Veiculos.Fipe é um aplicativo qu
 
 ## 📑 Índice
 
-- [Funcionalidades](##funcionalidades)
+- [Funcionalidades](##Funcionalidades)
+- [Screenshots](##Screenshots)
+- [Instalação](##Instalação-e-Execução)
+- [Execução](##Instalação-e-Execução)
+- [Observações](##Observações)
+- [Contato](##Contato)
 
 ## 📋 Funcionalidades
 
