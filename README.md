@@ -73,7 +73,7 @@ python -m venv _venv
 python3 -m venv _venv
 ```
 
-Em seguida, ative o ambiente virtual.
+No caso de ter criado um ambiente virtual, ative-o.
 
 ```bash
 ## no Windows
