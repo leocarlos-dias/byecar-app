@@ -1,3 +1,4 @@
 .env
 _venv
 venv
+classes/__pycache__
